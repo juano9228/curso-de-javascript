@@ -1,4 +1,4 @@
-
+//Comentario en el fork
 dineroCofla = prompt("cuanto dinero tienes cofla?");
 dineroRoberto = prompt("cuanto dinero tienes roberto?");
 dineroPedro = prompt("cuanto dinero tienes pedro?");
